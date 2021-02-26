@@ -1,5 +1,5 @@
 # 808-kick-eurorack
-808 kick (bass drum) for eurorack / modular synth
+808 kick (bass drum) for eurorack / modular synth based on [ericarcher.net](http://www.ericarcher.net/)
 
 ## 3D view
 ### 3D view front
